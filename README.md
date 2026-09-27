@@ -23,5 +23,5 @@ Security Tools
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src= "https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src = "https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> 
 
 
-#### Connect with me thru
-!(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/monica_maggg) ![www.linkedin.com/in/monica-maggie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)    ![Email(mailto:monicamaggie020406@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+#### Connect with me thru1
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/monica_maggg) ![www.linkedin.com/in/monica-maggie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)    ![Email(mailto:monicamaggie020406@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
